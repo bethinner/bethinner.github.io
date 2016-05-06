@@ -1,0 +1,35 @@
+
+.am-modal-actions-group {
+  margin-bottom: 80%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+.am-modal-actions-group .am-list > li > a {
+    color: inherit;
+  padding: 1rem;
+  display: block;
+  word-wrap: normal;
+  /* for IE */
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.am-modal-actions-header {
+  padding: 1rem;
+  color: #333333;
+  font-size: 1.4rem;
+}
+
+.am-modal-actions-list {
+  color: #52CCC4;
+}
+
+.am-modal-actions-danger {
+  color: #FF6A00;
+}
+.am-modal-actions-danger a {
+  color: inherit;
+}
+
